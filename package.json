@@ -10,9 +10,11 @@
   "dependencies": {
   },
   "devDependencies": {
-    "cssnano": "^5.1.15",
-    "@babel/core": "7.2.0",
-    "parcel-bundler": "^1.6.1"
+      "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1",
+    "postcss": "^8.4.24",
+    "postcss-discard-comments": "^5.0.0",
+    "cssnano": "^5.1.15"
   },
   "keywords": []
 }
